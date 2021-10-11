@@ -1,3 +1,0 @@
-hello this is version 1 of my project
-adding few comments for 2nd version
-Hello I'm chander
